@@ -1,0 +1,10 @@
+{
+  "resourceType": "Condition",
+  "id": "example",
+  "clinicalStatus": {
+    "text": "active"
+  },
+  "code": {
+    "text": "Hypertension"
+  }
+}

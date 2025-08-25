@@ -1,0 +1,7 @@
+{
+  "resourceType": "Medication",
+  "id": "example",
+  "code": {
+    "text": "Aspirin"
+  }
+}

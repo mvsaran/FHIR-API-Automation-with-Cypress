@@ -1,0 +1,12 @@
+{
+  "name": "fhir-cypress-operations",
+  "version": "1.0.0",
+  "description": "Cypress automation for FHIR API operations (GET, POST, PUT, DELETE)",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

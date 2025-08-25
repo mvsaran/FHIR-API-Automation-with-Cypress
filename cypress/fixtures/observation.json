@@ -1,0 +1,12 @@
+{
+  "resourceType": "Observation",
+  "id": "example",
+  "status": "final",
+  "code": {
+    "text": "Blood Pressure"
+  },
+  "valueQuantity": {
+    "value": 120,
+    "unit": "mmHg"
+  }
+}
