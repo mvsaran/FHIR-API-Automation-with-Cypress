@@ -1,4 +1,4 @@
-# FHIR Cypress Automation
+🏥# FHIR Cypress Automation
 
 This repository contains Cypress automated test cases for validating FHIR resources such as **Patient, Condition, Medication, and Observation**.  
 The automation ensures compliance with FHIR standards and validates API endpoints.
